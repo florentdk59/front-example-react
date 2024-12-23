@@ -7,7 +7,7 @@ const API_CHARACTERS = 'http://localhost:8080/api/characters';
 
 async function fetchCharacters() {
     const response = await fetch(API_CHARACTERS);
-    return await response.json();;
+    return await response.json();
 };
 
 const Characters = () => {
