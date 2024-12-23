@@ -1,6 +1,6 @@
 
 
-The code shared here is purely an exercise to test features from React.
+The code shared here is purely an exercise to test features from React and NextJS.
 This is a work in progress.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
